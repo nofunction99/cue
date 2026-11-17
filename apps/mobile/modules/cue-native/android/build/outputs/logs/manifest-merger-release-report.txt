@@ -1,0 +1,48 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/greg/code/cue/apps/mobile/modules/cue-native/android/src/main/AndroidManifest.xml:1:1-23:12
+INJECTED from /home/greg/code/cue/apps/mobile/modules/cue-native/android/src/main/AndroidManifest.xml:1:1-23:12
+	package
+		INJECTED from /home/greg/code/cue/apps/mobile/modules/cue-native/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/greg/code/cue/apps/mobile/modules/cue-native/android/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /home/greg/code/cue/apps/mobile/modules/cue-native/android/src/main/AndroidManifest.xml:2:3-22:17
+activity#app.cue.nativemodule.ShareActivity
+ADDED from /home/greg/code/cue/apps/mobile/modules/cue-native/android/src/main/AndroidManifest.xml:8:5-21:16
+	android:label
+		ADDED from /home/greg/code/cue/apps/mobile/modules/cue-native/android/src/main/AndroidManifest.xml:10:7-33
+	android:excludeFromRecents
+		ADDED from /home/greg/code/cue/apps/mobile/modules/cue-native/android/src/main/AndroidManifest.xml:12:7-40
+	android:noHistory
+		ADDED from /home/greg/code/cue/apps/mobile/modules/cue-native/android/src/main/AndroidManifest.xml:13:7-31
+	android:exported
+		ADDED from /home/greg/code/cue/apps/mobile/modules/cue-native/android/src/main/AndroidManifest.xml:11:7-30
+	android:theme
+		ADDED from /home/greg/code/cue/apps/mobile/modules/cue-native/android/src/main/AndroidManifest.xml:15:7-66
+	android:taskAffinity
+		ADDED from /home/greg/code/cue/apps/mobile/modules/cue-native/android/src/main/AndroidManifest.xml:14:7-30
+	android:name
+		ADDED from /home/greg/code/cue/apps/mobile/modules/cue-native/android/src/main/AndroidManifest.xml:9:7-56
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:text/plain
+ADDED from /home/greg/code/cue/apps/mobile/modules/cue-native/android/src/main/AndroidManifest.xml:16:7-20:23
+action#android.intent.action.SEND
+ADDED from /home/greg/code/cue/apps/mobile/modules/cue-native/android/src/main/AndroidManifest.xml:17:9-61
+	android:name
+		ADDED from /home/greg/code/cue/apps/mobile/modules/cue-native/android/src/main/AndroidManifest.xml:17:17-58
+category#android.intent.category.DEFAULT
+ADDED from /home/greg/code/cue/apps/mobile/modules/cue-native/android/src/main/AndroidManifest.xml:18:9-68
+	android:name
+		ADDED from /home/greg/code/cue/apps/mobile/modules/cue-native/android/src/main/AndroidManifest.xml:18:19-65
+data
+ADDED from /home/greg/code/cue/apps/mobile/modules/cue-native/android/src/main/AndroidManifest.xml:19:9-47
+	android:mimeType
+		ADDED from /home/greg/code/cue/apps/mobile/modules/cue-native/android/src/main/AndroidManifest.xml:19:15-44
+uses-sdk
+INJECTED from /home/greg/code/cue/apps/mobile/modules/cue-native/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/greg/code/cue/apps/mobile/modules/cue-native/android/src/main/AndroidManifest.xml
+INJECTED from /home/greg/code/cue/apps/mobile/modules/cue-native/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/greg/code/cue/apps/mobile/modules/cue-native/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/greg/code/cue/apps/mobile/modules/cue-native/android/src/main/AndroidManifest.xml
